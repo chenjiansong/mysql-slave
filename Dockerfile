@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 FROM mysql:5.7.26
-=======
-FROM mysql:5.7.25
->>>>>>> bdfcf37aa5ef93a7e57849b11370e1c41aa652cb
 MAINTAINER Ku8Manager <ku8manager@hpe.com>
 
 # set timezone
